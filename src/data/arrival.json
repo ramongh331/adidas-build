@@ -1,0 +1,157 @@
+{
+"new":    [
+{
+"name": "Breakfast Burger",
+"price": 15.99,
+"foodGroup": "Dinner",
+"image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2018/4/2/3/LS-Library_Bacon-Egg-Cheese-Breakfast-Burgers_s4x3.jpg.rend.hgtvcom.966.725.suffix/1522721805486.jpeg"
+},
+{
+"name": "Oven-Fried Ranch Chicken",
+"price": 7.99,
+"foodGroup": "Dinner",
+"image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/10/2/1/FNM_110112-Oven-Fried-Ranch-Chicken-Recipe_s4x3.jpg.rend.hgtvcom.966.725.suffix/1382456487731.jpeg"
+},
+{
+"name": "Air Fryer French Fries",
+"price": 5.99,
+"foodGroup": "Dinner",
+"image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/9/17/0/FNK_Air-Fryer-French-Fries_H_s4x3.jpg.rend.hgtvcom.966.725.suffix/1568735451958.jpeg"
+},
+{
+"name": "Penne alla Vodka",
+"price": 21.99,
+"foodGroup": "Dinner",
+"image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2011/11/14/2/WU-0104_penne-and-vodka_s4x3.jpg.rend.hgtvcom.966.725.suffix/1449693418767.jpeg"
+},
+{
+"name": "Skillet-Roasted Lemon Chicken",
+"price": 18.99,
+"foodGroup": "Dinner",
+"image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/10/4/4/BX1204H_skillet-lemon-chicken_s4x3.jpg.rend.hgtvcom.966.725.suffix/1477425807542.jpeg"
+}
+],
+"trending":    [
+{
+"name": "Cloud Bread",
+"price": 15.99,
+"foodGroup": "Dinner",
+"image": "https://kirbiecravings.com/wp-content/uploads/2022/10/2-ingredient-cloud-bread-5.jpg"
+},
+{
+"name": "Mug Cake",
+"price": 7.99,
+"foodGroup": "Dessert",
+"image": "https://www.livewellbakeoften.com/wp-content/uploads/2019/09/Chocolate-Mug-Cake-5.jpg"
+},
+{
+"name": "Birria Tacos",
+"price": 5.99,
+"foodGroup": "Dinner",
+"image": "https://chefelizabethreese.com/wp-content/uploads/2022/05/Slow-Cooker-Birria-Tacos-5-scaled.jpg"
+},
+{
+"name": "Whipped Coffee",
+"price": 6.99,
+"foodGroup": "Breakfast",
+"image": "https://www.tasteofhome.com/wp-content/uploads/2021/06/whipped-coffee-GettyImages-1219219689.jpg"
+},
+{
+"name": "Skillet-Roasted Lemon Chicken",
+"price": 18.99,
+"foodGroup": "Dinner",
+"image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/10/4/4/BX1204H_skillet-lemon-chicken_s4x3.jpg.rend.hgtvcom.966.725.suffix/1477425807542.jpeg"
+},
+{
+"name": "Cloud Bread",
+"price": 15.99,
+"foodGroup": "Dinner",
+"image": "https://kirbiecravings.com/wp-content/uploads/2022/10/2-ingredient-cloud-bread-5.jpg"
+},
+{
+"name": "Mug Cake",
+"price": 7.99,
+"foodGroup": "Dessert",
+"image": "https://www.livewellbakeoften.com/wp-content/uploads/2019/09/Chocolate-Mug-Cake-5.jpg"
+},
+{
+"name": "Birria Tacos",
+"price": 5.99,
+"foodGroup": "Dinner",
+"image": "https://chefelizabethreese.com/wp-content/uploads/2022/05/Slow-Cooker-Birria-Tacos-5-scaled.jpg"
+},
+{
+"name": "Whipped Coffee",
+"price": 6.99,
+"foodGroup": "Breakfast",
+"image": "https://www.tasteofhome.com/wp-content/uploads/2021/06/whipped-coffee-GettyImages-1219219689.jpg"
+},
+{
+"name": "Skillet-Roasted Lemon Chicken",
+"price": 18.99,
+"foodGroup": "Dinner",
+"image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/10/4/4/BX1204H_skillet-lemon-chicken_s4x3.jpg.rend.hgtvcom.966.725.suffix/1477425807542.jpeg"
+},
+{
+    "name": "Cloud Bread",
+    "price": 15.99,
+    "foodGroup": "Dinner",
+    "image": "https://kirbiecravings.com/wp-content/uploads/2022/10/2-ingredient-cloud-bread-5.jpg"
+    },
+    {
+    "name": "Mug Cake",
+    "price": 7.99,
+    "foodGroup": "Dessert",
+    "image": "https://www.livewellbakeoften.com/wp-content/uploads/2019/09/Chocolate-Mug-Cake-5.jpg"
+    },
+    {
+    "name": "Birria Tacos",
+    "price": 5.99,
+    "foodGroup": "Dinner",
+    "image": "https://chefelizabethreese.com/wp-content/uploads/2022/05/Slow-Cooker-Birria-Tacos-5-scaled.jpg"
+    },
+    {
+    "name": "Whipped Coffee",
+    "price": 6.99,
+    "foodGroup": "Breakfast",
+    "image": "https://www.tasteofhome.com/wp-content/uploads/2021/06/whipped-coffee-GettyImages-1219219689.jpg"
+    },
+    {
+    "name": "Skillet-Roasted Lemon Chicken",
+    "price": 18.99,
+    "foodGroup": "Dinner",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/10/4/4/BX1204H_skillet-lemon-chicken_s4x3.jpg.rend.hgtvcom.966.725.suffix/1477425807542.jpeg"
+    },
+    {
+    "name": "Cloud Bread",
+    "price": 15.99,
+    "foodGroup": "Dinner",
+    "image": "https://kirbiecravings.com/wp-content/uploads/2022/10/2-ingredient-cloud-bread-5.jpg"
+    },
+    {
+    "name": "Mug Cake",
+    "price": 7.99,
+    "foodGroup": "Dessert",
+    "image": "https://www.livewellbakeoften.com/wp-content/uploads/2019/09/Chocolate-Mug-Cake-5.jpg"
+    },
+    {
+    "name": "Birria Tacos",
+    "price": 5.99,
+    "foodGroup": "Dinner",
+    "image": "https://chefelizabethreese.com/wp-content/uploads/2022/05/Slow-Cooker-Birria-Tacos-5-scaled.jpg"
+    },
+    {
+    "name": "Whipped Coffee",
+    "price": 6.99,
+    "foodGroup": "Breakfast",
+    "image": "https://www.tasteofhome.com/wp-content/uploads/2021/06/whipped-coffee-GettyImages-1219219689.jpg"
+    },
+    {
+    "name": "Skillet-Roasted Lemon Chicken",
+    "price": 18.99,
+    "foodGroup": "Dinner",
+    "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2016/10/4/4/BX1204H_skillet-lemon-chicken_s4x3.jpg.rend.hgtvcom.966.725.suffix/1477425807542.jpeg"
+    }
+]
+
+}
