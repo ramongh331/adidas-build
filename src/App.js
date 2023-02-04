@@ -1,6 +1,6 @@
 import arrivals from "./data/arrival.json";
 import "./index.css"
-import { useState } from "react";
+import { useEffect, useState, createRef } from "react";
 
 function App() {
   const trends = arrivals.trending;
@@ -8,19 +8,26 @@ function App() {
 
   const [imgsInView, setImgsInView] = useState(0)
   const length = trends.length
+  const card = createRef()
+ const [cardWidth, setCardWidth] = useState()
   const show = 5
-  
 
+  
+  // useEffect(() => {
+    
+  //   console.log(card.current.clientWidth)
+  //   }, [imgsInView])
 
 const moveStyle = {
-  transform: `translateX(-${imgsInView * 5}%)`
+  transform: `translateX(-${cardWidth * 5}px)`
 }
 
   function handleNextSlide(){
     if(imgsInView < (length - show)){
        setImgsInView(prevState => prevState + 2)
     }
-   
+    const width = card.current.clientWidth
+    setCardWidth(width)
   }
   function handleBackSlide(){
     if(imgsInView < (length - show)){
@@ -28,6 +35,12 @@ const moveStyle = {
     }
    
   }
+
+// David's Help - finding the width of certain divs
+  // const ref = createRef()
+  // useEffect(() => {
+  //   console.log(ref.current?.clientWidth)
+  // }, [imgsInView])
 
   return (
     <div className="App">
@@ -37,7 +50,7 @@ const moveStyle = {
         <div className="cardS" style={moveStyle}>
           {trends.map((trend) => (
             <>
-              <div className="card">
+              <div ref={card} className="card">
                 <img className="image" src={trend.image} alt="" />
                 <h5>{trend.price}</h5>
                 <h3>{trend.name}</h3>
